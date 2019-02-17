@@ -1,4 +1,6 @@
 # 参考: https://rooter.jp/web-crawling/setup-headless-chrome-mac/
+# nokogiri参考: http://himaratsu.hatenablog.com/entry/2013/04/27/002249
+# Selenium参考: https://qiita.com/mochio/items/dc9935ee607895420186
 
 require 'nokogiri'
 require 'selenium-webdriver'
